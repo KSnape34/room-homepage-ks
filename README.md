@@ -11,7 +11,6 @@ This is a solution to the [Room homepage challenge on Frontend Mentor](https://w
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -34,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Room Homepage](https://your-solution-url.com)
-- Live Site URL: [Room Homepage](https://your-live-site-url.com)
+- Solution URL: [Room Homepage](https://github.com/KSnape34/room-homepage-ks)
+- Live Site URL: [Room Homepage](https://room-homepage-ks.netlify.app)
 
 ## My process
 
