@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Room Homepage (React)](https://github.com/user-attachments/assets/849da70f-14a4-41a2-be76-14dd874f53d7)
 
 
 ### Links
